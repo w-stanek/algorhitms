@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08186a33-484a-4bba-ab05-6da60e245ada" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/ArrayReverse2.java" afterDir="false" />
+    <list default="true" id="08186a33-484a-4bba-ab05-6da60e245ada" name="Changes" comment="added 2nd solution for reversing array">
+      <change afterPath="$PROJECT_DIR$/src/ArrayRotate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayReverse2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayReverse2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +33,42 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="ArrayReverse2" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.ArrayReverse2">
+    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayReverse" />
       <module name="algorhitms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrayReverse2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayReverse2" />
+      <module name="algorhitms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayRotate" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayRotate" />
+      <module name="algorhitms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayReverse" />
+      <item itemvalue="Application.ArrayReverse2" />
+      <item itemvalue="Application.ArrayRotate" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ArrayReverse2" />
+        <item itemvalue="Application.ArrayReverse" />
+        <item itemvalue="Application.ArrayRotate" />
       </list>
     </recent_temporary>
   </component>
@@ -65,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652183324104</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added 2nd solution for reversing array">
+      <created>1652184487163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652184487163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added 2nd solution for reversing array" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 2nd solution for reversing array" />
   </component>
 </project>
