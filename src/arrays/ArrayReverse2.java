@@ -11,7 +11,7 @@ public class ArrayReverse2 {
             //setting last index to end of array
             int lastIndex = dataCopy.length-1;
             int temp;
-            //iterate through half of till start and end indexes meets there
+            //iterate through half of array till start and end indexes meets there
             for(int i=0;i <=Endpoint;i++){
                 //swapping values along center
                 temp = dataCopy[lastIndex];
