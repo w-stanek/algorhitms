@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652543629929</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="small fix with variable declaration">
+      <created>1652543675658</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652543675658</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +185,7 @@
     <MESSAGE value="added bubblesort algorhitm + comments" />
     <MESSAGE value="fix comments" />
     <MESSAGE value="small fix with variable declaration" />
-    <option name="LAST_COMMIT_MESSAGE" value="small fix with variable declaration" />
+    <MESSAGE value="small fix with seed data" />
+    <option name="LAST_COMMIT_MESSAGE" value="small fix with seed data" />
   </component>
 </project>
