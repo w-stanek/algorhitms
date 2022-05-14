@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08186a33-484a-4bba-ab05-6da60e245ada" name="Changes" comment="added array rotation + comments to all classes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArraySortBubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArrayReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayReverse2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArrayReverse2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArrayRotate.java" afterDir="false" />
-    </list>
+    <list default="true" id="08186a33-484a-4bba-ab05-6da60e245ada" name="Changes" comment="small fix with variable declaration" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +136,28 @@
       <option name="project" value="LOCAL" />
       <updated>1652199901918</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added bubblesort algorhitm + comments">
+      <created>1652543163941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652543163941</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix comments">
+      <created>1652543239970</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652543239970</updated>
+    </task>
+    <task id="LOCAL-00007" summary="small fix with variable declaration">
+      <created>1652543629929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652543629929</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,17 +175,9 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="added 2nd solution for reversing array" />
     <MESSAGE value="added array rotation + comments to all classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added array rotation + comments to all classes" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/ArraySortBubble.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="added bubblesort algorhitm + comments" />
+    <MESSAGE value="fix comments" />
+    <MESSAGE value="small fix with variable declaration" />
+    <option name="LAST_COMMIT_MESSAGE" value="small fix with variable declaration" />
   </component>
 </project>

@@ -34,7 +34,7 @@ public class ArraySortBubble {
         System.out.println(java.util.Arrays.toString(b));
 
 
-        int[] c = {7, 3, 1, 6, 5, 4, 7};
+        int[] c = {2, 3, 1, 6, 5, 4, 7};
         int[] d = sort(c);
         System.out.println(java.util.Arrays.toString(c));
         System.out.println(java.util.Arrays.toString(d));
