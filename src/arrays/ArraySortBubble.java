@@ -5,9 +5,8 @@ public class ArraySortBubble {
         int[] dataCopy = new int[a.length];
         //make a working copy of array to prevent input data modification
         System.arraycopy(a,0,dataCopy,0,dataCopy.length);
-        int cyclesRemaining;
         //set initial number of iterations
-        cyclesRemaining = dataCopy.length-1;
+        int cyclesRemaining = dataCopy.length-1;
         //array is sorted when number of iterations needed reach 0
        while(cyclesRemaining >0){
                 for(int i=0;i<cyclesRemaining;i++) {
