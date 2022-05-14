@@ -1,3 +1,5 @@
+package arrays;
+
 public class ArrayReverse2 {
 
         public static int[] reverse(int[] a) {

@@ -1,3 +1,5 @@
+package arrays;
+
 enum direction{
     left,
     right
@@ -19,7 +21,7 @@ public class ArrayRotate {
                     if(dir == direction.right)
                         pos = (shift + i) % dataCopy.length;
                     else
-                    //if direction is left position index is calculated form the end of array and subtracted from actual loop index. Divide by array length performs same
+                    //if arrays.direction is left position index is calculated form the end of array and subtracted from actual loop index. Divide by array length performs same
                         pos =(i-shift+ dataCopy.length) % dataCopy.length;
                     dataCopy[pos] = a[i];
                 }
